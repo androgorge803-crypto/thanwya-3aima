@@ -230,7 +230,6 @@ const GIFTS = [
 { emoji: '🧁', name: 'كب كيك' },
 { emoji: '🥤', name: 'عصير شوكولاتة' },
 { emoji: '🍫', name: 'توكس' },
-{ emoji: '🌹', name: 'ورد' },
 { emoji: '🍑', name: 'زبادي خوخ' },
 { emoji: '🍫', name: 'ديري ميلك' },
 { emoji: '🍭', name: 'مصاصة' },
