@@ -209,14 +209,13 @@ document.getElementById('loveMsg').innerHTML = LOVE_MSGS[dayOfYear % LOVE_MSGS.l
 
 // ── Daily Gifts ───────────────────────────
 const GIFTS = [
-{ emoji: '🍫', name: 'كيندر بوينو' },
+{ emoji: '🍫', name: 'كيندر ' },
 { emoji: '🍓', name: 'عصير فراولة' },
 { emoji: '🍪', name: 'كوكيز شوكولاتة' },
 { emoji: '🌹', name: 'ورد' },
 { emoji: '🍫', name: 'سنكرز' },
 { emoji: '🥐', name: 'مولتو شوكولاتة' },
 { emoji: '🍿', name: 'فشار' },
-{ emoji: '🍫', name: 'كيت كات' },
 { emoji: '🍮', name: 'دانيت شوكولاتة' },
 { emoji: '🍩', name: 'دونات' },
 { emoji: '🥭', name: 'عصير مانجو' },
@@ -235,17 +234,17 @@ const GIFTS = [
 { emoji: '🍭', name: 'مصاصة' },
 { emoji: '🧀', name: 'شيبسي جبنة' },
 { emoji: '🍫', name: 'باونتي' },
-{ emoji: '🥛', name: 'لبن شوكولاتة' },
+{ emoji: '🥛', name: 'ميكس شوكلاته' },
 { emoji: '🍡', name: 'مارشميلو' },
 { emoji: '☕', name: 'نسكافيه' },
-{ emoji: '🍫', name: 'توفي في' },
-{ emoji: '🌶️', name: 'شيبسي حار' },
-{ emoji: '🍰', name: 'جاتوه شوكولاتة' },
+{ emoji: '🍫', name: 'شوكلاته بابلي' },
+{ emoji: '🌶️', name: 'شيبسي شطه ولمون' },
+{ emoji: '🍰', name: 'كيكا' },
 { emoji: '🧃', name: 'عصير كوكتيل' },
-{ emoji: '🍫', name: 'كيندر كاردز' },
+{ emoji: '🍫', name: 'كيندر بينو' },
 { emoji: '🍎', name: 'عصير تفاح' },
 { emoji: '🍫', name: 'كادبوري' },
-{ emoji: '🍪', name: 'لوتس بسكويت' }
+{ emoji: '🍪', name: 'كوكيز' }
 ];
 
 
